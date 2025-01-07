@@ -28,5 +28,6 @@
             "name": "root-connect",
             "password": ""
         }
-    ]
+    ],
+    "codium.codeCompletion.enable": true
 }
